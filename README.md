@@ -16,4 +16,8 @@ Additional Information:
 All our Courses are Non-Residential. But we can suggest suitable accommodation options, for International participants.
 For people with Special needs, necessary Seating & Accessibility arrangements can be made, on prior intimation.
 The Course is delivered in English language only.
+
+
+<p>
 https://www.qsutra.com/training-workshops/data-analysis-essentials
+</p>
